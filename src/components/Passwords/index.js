@@ -164,7 +164,7 @@ class Passwords extends Component {
                 value={password}
               />
             </div>
-            <form onSubmit={this.onAdd}>
+            <form onSubmit={this.onAdd} className="formElement">
               <button type="submit" className="add-button">
                 Add
               </button>

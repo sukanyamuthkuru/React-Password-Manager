@@ -168,3 +168,6 @@ body {
   color: white;
   font-family: 'Roboto';
 }
+.formElement {
+  align-self: flex-end;
+}
